@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotCold", "HotCold\HotCold.csproj", "{B63580F0-037B-4A35-AC0B-07E2E76B0816}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B63580F0-037B-4A35-AC0B-07E2E76B0816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63580F0-037B-4A35-AC0B-07E2E76B0816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63580F0-037B-4A35-AC0B-07E2E76B0816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63580F0-037B-4A35-AC0B-07E2E76B0816}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEABB1C4-7C1A-4C37-BE56-AEBB8302E0F0}
+	EndGlobalSection
+EndGlobal

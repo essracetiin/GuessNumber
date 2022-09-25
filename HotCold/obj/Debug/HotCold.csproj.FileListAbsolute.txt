@@ -1,0 +1,8 @@
+D:\I KNOW\TUGAY\RANDOM\HotCold\HotCold\bin\Debug\HotCold.exe.config
+D:\I KNOW\TUGAY\RANDOM\HotCold\HotCold\bin\Debug\HotCold.exe
+D:\I KNOW\TUGAY\RANDOM\HotCold\HotCold\bin\Debug\HotCold.pdb
+D:\I KNOW\TUGAY\RANDOM\HotCold\HotCold\obj\Debug\HotCold.csproj.AssemblyReference.cache
+D:\I KNOW\TUGAY\RANDOM\HotCold\HotCold\obj\Debug\HotCold.csproj.SuggestedBindingRedirects.cache
+D:\I KNOW\TUGAY\RANDOM\HotCold\HotCold\obj\Debug\HotCold.csproj.CoreCompileInputs.cache
+D:\I KNOW\TUGAY\RANDOM\HotCold\HotCold\obj\Debug\HotCold.exe
+D:\I KNOW\TUGAY\RANDOM\HotCold\HotCold\obj\Debug\HotCold.pdb
